@@ -1,0 +1,1 @@
+We chose the specific license because we wanted it to have as little restrictions as possible on the people who wanted to use it. We chose the specific code of conduct to have a bit of fun, and we also think that it describes well how a group of people should work and contribute.
